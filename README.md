@@ -158,4 +158,4 @@ sales for thousands of items.
 -   Poor: Model has RMSLE of 0.4 +
 
 ## Author
-Kehinde Afolabi
+Afolabi Kehinde
